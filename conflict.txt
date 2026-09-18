@@ -1,4 +1,4 @@
 Welcome to Git
 Git is a version control system
-Git helps developers work together
+Git helps developers work together and collaborate 
 Git branches are useful
