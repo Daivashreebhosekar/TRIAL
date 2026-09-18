@@ -1,0 +1,4 @@
+Welcome to Git
+Git is a version control system
+Git helps developers collaborate
+Git branches are useful
